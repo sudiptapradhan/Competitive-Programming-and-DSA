@@ -1,7 +1,7 @@
 // Merge two sorted arrays without using extra space.
 
-class solution_4{
-public:
+public class solution_4{
+
 	void merge(int arr1[], int arr2[], int n, int m) {
 	    
 	    int i=n-1;
